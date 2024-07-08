@@ -4,7 +4,7 @@
 **1.金融科技书单**
 
 **2.量化投资书单**
-+Python-Basics-Handbook.pdf
-+Machine-Learning-Trading-Book.pdf
-+Algorithmic-Trading-A-Rough-And-Ready-Guide.pdf
++ Python-Basics-Handbook.pdf
++ Machine-Learning-Trading-Book.pdf
++ Algorithmic-Trading-A-Rough-And-Ready-Guide.pdf
 
